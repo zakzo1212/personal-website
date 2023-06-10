@@ -2,3 +2,4 @@ TODO:
 
 - slideshow with photos
 - Resume? Activities? Interests?
+- Get some javascript features implemented, such as animations to enlarge headers when hovered over
